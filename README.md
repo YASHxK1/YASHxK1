@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YASHxK1
 - 👀 I’m interested in ...computer programming,mechine learning,data science.
-- 🌱 I’m currently learning ...c,c++,ml
+- 🌱 I’m currently learning ...sql
 - 💞️ I’m looking to collaborate on ...mechine learning projects
 - 📫 How to reach me ...github.com/YASHxK1
 
