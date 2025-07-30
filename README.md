@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashxk1&show_icons=true&locale=en" alt="yashxk1" /></p>
 
 
-<p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHxK1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
