@@ -7,8 +7,7 @@
 <h1 align="center">Hi 👋, I'm YASH</h1>
 <h3 align="center">Data Science/Analytics and Machine Learning Enthusiast.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/YASHxK1/my-projects](https://github.com/YASHxK1/my-projects)
-
+- 👨‍💻 All of my projects are available on github https://github.com/YASHxK1?tab=repositories
 - 📫 How to reach me **https://www.linkedin.com/in/yashkarle10/**
 
 <h3 align="center">Connect with me:</h3>
