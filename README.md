@@ -7,6 +7,7 @@
 <h1 align="center">Hi 👋, I'm YASH</h1>
 <h3 align="center">Data Science/Analytics and Machine Learning Enthusiast.</h3>
 
+- 🌐 my portfolio website https://yashxk1.vercel.app/
 - 👨‍💻 All of my projects are available on github https://github.com/YASHxK1?tab=repositories
 - 📫 How to reach me **https://www.linkedin.com/in/yashkarle10/**
 
