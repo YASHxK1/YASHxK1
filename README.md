@@ -18,9 +18,6 @@
 </p>
 <br>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashxk1&show_icons=true&theme=dark&locale=en&layout=compact" alt="yashxk1" /></p>
-
 ## 📈 Contribution Graph
 
 <div align="center">
