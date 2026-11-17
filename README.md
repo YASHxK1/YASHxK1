@@ -1,5 +1,3 @@
-## **About Me**
-
 # **Yash Karle**
 
 I'm a developer interested in building and understanding the systems behind modern technology.
@@ -14,7 +12,5 @@ Some areas I'm currently exploring:
 - **Systems Engineering:** Rust, memory management, concurrency, and high-performance computing.
 - **Developer Infrastructure:** APIs, distributed systems, networking, and deployment architectures.
 - **Research & Experimentation:** Exploring new approaches to making software and AI systems faster, more efficient, and more useful.
-
-This blog is where I document what I learn, the systems I experiment with, and the technical ideas worth exploring.
 
 **I believe the best way to understand technology is to build with it.**
